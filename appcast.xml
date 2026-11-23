@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"><channel>
 <title>Snaplet 更新</title><link>https://github.com/tangxuexx/snaplet/releases</link><language>zh-CN</language>
-<item><title>Snaplet 0.1.25</title><sparkle:version>26</sparkle:version><sparkle:shortVersionString>0.1.25</sparkle:shortVersionString>
-<sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-<description sparkle:descriptionFormat="plain-text">1. 新增应用内检查更新，支持下载、签名校验和安装后重新启动。
-2. 新增 DMG 拖拽安装，首次安装更方便。
-3. 截图过程中暂缓更新重启，保护当前操作。
-4. 可在设置中选择是否自动检查更新。</description>
-<enclosure url="https://github.com/tangxuexx/snaplet/releases/download/v0.1.25/Snaplet-0.1.25-Mac-AppleSilicon.zip" type="application/octet-stream" sparkle:edSignature="nC+mvH159FGb1mKz5u2C7sELRB6JvyrlBJtzzzq7yptYMXdplLcgq3tf1uJKXiv4w0INkW7+JAuoAxrx0FKWAA==" length="4148235"/>
-</item></channel></rss>
+<item><title>Snaplet 0.1.26</title><sparkle:version>27</sparkle:version>
+<sparkle:shortVersionString>0.1.26</sparkle:shortVersionString><sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+<description sparkle:descriptionFormat="plain-text">修复检查更新窗口的滚动条显示：短提示自动隐藏，长更新说明可完整滚动查看。</description>
+<enclosure url="https://github.com/tangxuexx/snaplet/releases/download/v0.1.26/Snaplet-0.1.26-Mac-AppleSilicon.zip" type="application/octet-stream" sparkle:edSignature="ClFpLT9JWg7vnIFh3eC4EcB6dOL1kYe8kJCZH+bSFLTMp3nNVE3LhHbZ70iYwijUX0GVGLDlA4HXOK4DobBgAw==" length="4149299"/></item></channel></rss>

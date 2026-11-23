@@ -6,7 +6,7 @@
 
 轻量级 macOS 截图与标注工具，中文界面，支持窗口截图、自由框选、滚动长截图、文字识别和图片翻译。
 
-**[⬇ 下载 Snaplet · Mac M 系列](https://github.com/tangxuexx/snaplet/releases/download/v0.1.25/Snaplet-0.1.25-Mac-AppleSilicon.dmg) · [使用与安装说明](使用说明.md) · [问题反馈](https://github.com/tangxuexx/snaplet/issues)**
+**[⬇ 下载 Snaplet · Mac M 系列](https://github.com/tangxuexx/snaplet/releases/download/v0.1.26/Snaplet-0.1.26-Mac-AppleSilicon.dmg) · [使用与安装说明](使用说明.md) · [问题反馈](https://github.com/tangxuexx/snaplet/issues)**
 
 > 本仓库用于发布安装包、使用说明和收集反馈，不包含 Snaplet 应用源码。
 
@@ -23,9 +23,9 @@
 - 本机中英文 OCR，支持中英图片翻译。
 
 ## 下载与安装
-当前提供 **0.1.25 · Apple Silicon（M 系列）Mac** 版本。
+当前提供 **0.1.26 · Apple Silicon（M 系列）Mac** 版本。
 
-1. **[点击下载安装包](https://github.com/tangxuexx/snaplet/releases/download/v0.1.25/Snaplet-0.1.25-Mac-AppleSilicon.dmg)**。
+1. **[点击下载安装包](https://github.com/tangxuexx/snaplet/releases/download/v0.1.26/Snaplet-0.1.26-Mac-AppleSilicon.dmg)**。
 2. 打开 DMG，将左侧 `Snaplet` 拖到右侧“应用程序”。
 3. 打开应用并授权屏幕录制，按 **Option + A** 开始截图。
 
