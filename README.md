@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/snaplet-logo.png" alt="Snaplet 应用图标" width="96">
+</p>
+
 # Snaplet
 
 轻量级 macOS 截图与标注工具，中文界面，支持窗口截图、自由框选、滚动长截图、文字识别和图片翻译。
@@ -5,6 +9,12 @@
 **[下载 Snaplet](https://github.com/tangxuexx/snaplet/releases) · [使用与安装说明](使用说明.md) · [问题反馈](https://github.com/tangxuexx/snaplet/issues)**
 
 > 本仓库用于发布安装包、使用说明和收集反馈，不包含 Snaplet 应用源码。当前版本为试用版。
+
+## 界面预览
+
+![Snaplet 截图标注工具栏](assets/snaplet-toolbar.png)
+
+截图后的工具栏：标注、文字识别、图片翻译、长截图、钉图与保存；下方可调整颜色、线条和字号。
 
 ## 功能
 - 窗口悬停预选与自由框选，支持部分菜单、浮动面板。
