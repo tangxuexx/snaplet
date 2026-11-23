@@ -8,7 +8,7 @@
 
 **[下载 Snaplet](https://github.com/tangxuexx/snaplet/releases) · [使用与安装说明](使用说明.md) · [问题反馈](https://github.com/tangxuexx/snaplet/issues)**
 
-> 本仓库用于发布安装包、使用说明和收集反馈，不包含 Snaplet 应用源码。当前版本为试用版。
+> 本仓库用于发布安装包、使用说明和收集反馈，不包含 Snaplet 应用源码。
 
 ## 界面预览
 
@@ -31,7 +31,7 @@
 
 请下载上述应用 ZIP；GitHub 自动显示的 **Source code** 仅包含本仓库说明文件，不是应用安装包。
 
-## 系统要求与试用说明
+## 系统要求与安装说明
 - macOS 14 及以上；图片翻译需要 macOS 15 及以上，首次可能需要下载系统语言包。
 - 当前不提供 Intel Mac 或 Windows 安装包。
 - 使用本地证书签名，未使用 Apple Developer ID 签名，未经过 Apple 公证。首次打开可能被系统拦截，详见使用说明。
