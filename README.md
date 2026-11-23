@@ -6,7 +6,7 @@
 
 轻量级 macOS 截图与标注工具，中文界面，支持窗口截图、自由框选、滚动长截图、文字识别和图片翻译。
 
-**[⬇ 下载 Snaplet · Mac M 系列](https://github.com/tangxuexx/snaplet/releases/download/v0.1.24/Snaplet-0.1.24-Mac-AppleSilicon.zip) · [使用与安装说明](使用说明.md) · [问题反馈](https://github.com/tangxuexx/snaplet/issues)**
+**[⬇ 下载 Snaplet · Mac M 系列](https://github.com/tangxuexx/snaplet/releases/download/v0.1.25/Snaplet-0.1.25-Mac-AppleSilicon.dmg) · [使用与安装说明](使用说明.md) · [问题反馈](https://github.com/tangxuexx/snaplet/issues)**
 
 > 本仓库用于发布安装包、使用说明和收集反馈，不包含 Snaplet 应用源码。
 
@@ -23,13 +23,17 @@
 - 本机中英文 OCR，支持中英图片翻译。
 
 ## 下载与安装
-当前提供 **0.1.24 · Apple Silicon（M 系列）Mac** 版本。
+当前提供 **0.1.25 · Apple Silicon（M 系列）Mac** 版本。
 
-1. **[点击下载安装包](https://github.com/tangxuexx/snaplet/releases/download/v0.1.24/Snaplet-0.1.24-Mac-AppleSilicon.zip)**。
-2. 解压后将 `Snaplet.app` 拖入“应用程序”文件夹。
+1. **[点击下载安装包](https://github.com/tangxuexx/snaplet/releases/download/v0.1.25/Snaplet-0.1.25-Mac-AppleSilicon.dmg)**。
+2. 打开 DMG，将左侧 `Snaplet` 拖到右侧“应用程序”。
 3. 打开应用并授权屏幕录制，按 **Option + A** 开始截图。
 
 [查看版本更新记录](https://github.com/tangxuexx/snaplet/releases)
+
+## 更新应用
+
+从 0.1.24 及更早版本升级：先退出旧版，下载安装包，拖入原安装位置并选择“替换”。这次升级后，就可以在菜单栏点击 **“检查更新…”**，下载新版并安装重启。设置中可选择是否自动检查更新。
 
 ## 系统要求与安装说明
 - macOS 14 及以上；图片翻译需要 macOS 15 及以上，首次可能需要下载系统语言包。
