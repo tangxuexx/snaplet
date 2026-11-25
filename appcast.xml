@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"><channel>
 <title>Snaplet 更新</title><link>https://github.com/tangxuexx/snaplet/releases</link><language>zh-CN</language>
-<item><title>Snaplet 0.1.27</title><sparkle:version>30</sparkle:version>
-<sparkle:shortVersionString>0.1.27</sparkle:shortVersionString><sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-<description sparkle:descriptionFormat="plain-text">本次优化
-- 截图选区边框加粗，工具栏可拖动；颜色、字号和线宽按工具收起展示。
-- 鼠标放大镜统一为视觉 5 倍，显示坐标与色值。
-- 钉图支持系统强调色阴影、四角调整窗口、滚轮缩放和拖动查看；优化箭头与文字输入。
-- 完整窗口截图保留圆角；图片翻译默认直接开始，并支持滚轮缩放。
+<item><title>Snaplet 0.1.28</title><sparkle:version>31</sparkle:version>
+<sparkle:shortVersionString>0.1.28</sparkle:shortVersionString><sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+<description sparkle:descriptionFormat="plain-text">Snaplet 0.1.28
 
-本次升级需要重新授权录屏
-本版本更换了应用签名。应用内更新会替换原应用，不需要卸载。更新后请打开“系统设置 → 隐私与安全性 → 录屏与系统录音”（系统名称可能略有不同），选中旧 Snaplet 记录并点击减号移除，再点击加号添加“应用程序”中的 Snaplet，开启权限并退出后重新打开。移除的只是授权记录，不是应用；无需修改其他应用权限。
+- 新增选区边框颜色设置，可恢复默认中性灰。
+- 新增独立的“钉在屏幕”快捷键（默认 ⌃ ⌥ P），支持其他应用复制的图片，可修改或恢复默认。
+- 优化设置与使用说明页面，采用浅冰蓝玻璃风格，并更新应用 Logo。
+- 提升工具栏对比度，选中工具使用黑色加粗图标和紧凑浅灰底色。
+- 修复撤销、重做后按钮持续高亮的问题。
+- 修复颜色选择器的位置，以及关闭设置或启动截图时颜色选择器未一起关闭的问题。
 
-后续同签名升级已在本机验证保留录屏权限。当前未使用 Apple Developer ID 签名或 Apple 公证。
-</description>
-<enclosure url="https://github.com/tangxuexx/snaplet/releases/download/v0.1.27/Snaplet-0.1.27-Mac-AppleSilicon.zip" type="application/octet-stream" sparkle:edSignature="faTa21/VA9BjbVq1pb6r2ZbSuPA1ihE4zUhWIQvmr1JRBf/G9pEE1/83h0QPixZ4QmLC943xw0cizGQ5b2IHBg==" length="4226963"/></item></channel></rss>
+本版本沿用 0.1.27 的应用签名和现有更新签名密钥。从 0.1.27 更新通常无需重新授权录屏；更早版本若尚未完成签名迁移，仍可能需要重新授权。系统设置中的图标可能需重开设置后刷新。
+
+支持 Apple Silicon、macOS 14 及以上。当前未使用 Apple Developer ID 签名或 Apple 公证。</description>
+<enclosure url="https://github.com/tangxuexx/snaplet/releases/download/v0.1.28/Snaplet-0.1.28-Mac-AppleSilicon.zip" type="application/octet-stream" sparkle:edSignature="ZpZudMh2DZAdhdEyylG54DBJvG6r4kGbqctrCDgOL+01w7JNv2iJbq1yeg1cHaGwsmfoUKMIXPeYJQYqmNW+Bw==" length="5643455"/></item></channel></rss>
