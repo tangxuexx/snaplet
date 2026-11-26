@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"><channel>
 <title>Snaplet 更新</title><link>https://github.com/tangxuexx/snaplet/releases</link><language>zh-CN</language>
-<item><title>Snaplet 0.1.28</title><sparkle:version>31</sparkle:version>
-<sparkle:shortVersionString>0.1.28</sparkle:shortVersionString><sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-<description sparkle:descriptionFormat="plain-text">Snaplet 0.1.28
+<item><title>Snaplet 0.1.29</title><sparkle:version>32</sparkle:version>
+<sparkle:shortVersionString>0.1.29</sparkle:shortVersionString><sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+<description sparkle:descriptionFormat="plain-text">Snaplet 0.1.29
 
-- 新增选区边框颜色设置，可恢复默认中性灰。
-- 新增独立的“钉在屏幕”快捷键（默认 ⌃ ⌥ P），支持其他应用复制的图片，可修改或恢复默认。
-- 优化设置与使用说明页面，采用浅冰蓝玻璃风格，并更新应用 Logo。
-- 提升工具栏对比度，选中工具使用黑色加粗图标和紧凑浅灰底色。
-- 修复撤销、重做后按钮持续高亮的问题。
-- 修复颜色选择器的位置，以及关闭设置或启动截图时颜色选择器未一起关闭的问题。
+- 新增跟随系统、浅色和暗黑主题，设置、工具栏、提示气泡和鼠标放大器同步适配。
+- 优化主题选择胶囊的布局与点击响应；浅色和暗黑主题分别保存选区边框颜色，暗黑默认使用中深灰色。
+- 收紧截图与钉图工具栏，增加分组分隔线，统一灰色选中背景和悬停反馈；进入工具栏时恢复箭头指针。
+- macOS 15 及以上使用系统原生八方向缩放光标，优化选区拖拽反馈。
+- 缩小鼠标放大器，去除上方画面的外围边框；浅色主题提示气泡改为深灰底白字。
+- 长截图工具栏改为左侧状态、右侧操作的紧凑布局。
+- 自动更新检查改为启动时检查一次、运行期间每 4 小时检查；关闭自动检查后不触发，下载和安装仍由用户确认。
 
-本版本沿用 0.1.27 的应用签名和现有更新签名密钥。从 0.1.27 更新通常无需重新授权录屏；更早版本若尚未完成签名迁移，仍可能需要重新授权。系统设置中的图标可能需重开设置后刷新。
+本版本沿用现有正式应用签名与 Sparkle 更新签名密钥。旧版本需先升级至本版，才会使用新的更新检查频率。
 
 支持 Apple Silicon、macOS 14 及以上。当前未使用 Apple Developer ID 签名或 Apple 公证。</description>
-<enclosure url="https://github.com/tangxuexx/snaplet/releases/download/v0.1.28/Snaplet-0.1.28-Mac-AppleSilicon.zip" type="application/octet-stream" sparkle:edSignature="ZpZudMh2DZAdhdEyylG54DBJvG6r4kGbqctrCDgOL+01w7JNv2iJbq1yeg1cHaGwsmfoUKMIXPeYJQYqmNW+Bw==" length="5643455"/></item></channel></rss>
+<enclosure url="https://github.com/tangxuexx/snaplet/releases/download/v0.1.29/Snaplet-0.1.29-Mac-AppleSilicon.zip" type="application/octet-stream" sparkle:edSignature="s21SRGlWK89GG0KGqy17IWWM9/LtFXvFm633d/FlyNMEPUHW+nd7D32X7vnOUOBwoviR8JHoiMYMEOjx7hU7DA==" length="5675100"/></item></channel></rss>
